@@ -3,13 +3,13 @@
 #
 #######################
 mess = """======================================================
-     \e[1;34mJasa Pembuatan Script Deface        
-     \e[0;32mAuthor: MiSetya          
-     \e[1;31mTeam  : Termux NooB & Cyber Zend Entertime
+             Jasa Pembuatan Script Deface        
+             Author: MiSetya          
+             Team  : Termux NooB & Cyber Zend Entertime
 ======================================================"""
 
 print mess
-print "Dibikin oleh by MiSetya"
+print "Dibikin oleh MiSetya"
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
