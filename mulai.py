@@ -1,14 +1,15 @@
 #!/usr/bin/python
 #######################
-#  http://fb.com/ubaii.id.9  #
+#
 #######################
 mess = """======================================================
-             Deface Script Creator        
-                        Ubaii ID.
+     \e[1;34mJasa Pembuatan Script Deface        
+     \e[0;32mAuthor: MiSetya          
+     \e[1;31mTeam  : Termux NooB & Cyber Zend Entertime
 ======================================================"""
 
 print mess
-print "Created by Ubaii ID"
+print "Dibikin oleh by MiSetya"
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
@@ -124,7 +125,6 @@ fo.write(messagescript14)
 fo.write(messagescript15)
 fo.write(messagescript16)
 
-print "Script Berhasil Di buat!"
-print "Kontak : fb.com/ubaii.id.9"
+print "Script Sukses Di bikin!"
 
 fo.close()
